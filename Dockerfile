@@ -1,1 +1,1 @@
-FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.30.0
+FROM fluent/fluentd-kubernetes-daemonset:v1.14.0-debian-elasticsearch6-1.1
