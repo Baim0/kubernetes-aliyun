@@ -1,1 +1,1 @@
-FROM fluent/fluentd-kubernetes-daemonset:v1.14.0-debian-elasticsearch6-1.1
+FROM k8s.gcr.io/ingress-nginx/controller:v1.0.2
